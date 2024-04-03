@@ -4,7 +4,8 @@
     "configExternalURL": "",
     "projectToken": "",
     "baseBranches": [],
-    "enableReachability": true
+    "enableReachability": true,
+    "reachabilityScanDelayHours": 24.1
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
